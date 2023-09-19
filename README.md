@@ -10,6 +10,9 @@ For help getting started with Flutter development, view the
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+For help with Getx, view the [online documentation](https://pub.dev/packages/get/example) which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+
 ## Assets
 
 The `assets` directory houses images, fonts, and any other files you want to
